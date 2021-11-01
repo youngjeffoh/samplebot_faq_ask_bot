@@ -20,7 +20,7 @@ limitations under the License.
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'ko'
 
 # account
 ADMIN_ACCOUNT = "admin@xxx.com"
@@ -34,11 +34,11 @@ SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
 SECRET_KEY_NAME = "private_201xxxxx164308.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://plusfaq.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-18-210-95-55.compute-1.amazonaws.com"
+DB_NAME = "d2a1dtpcq08tv8"
+DB_USER = "jafewqqtgegnkj"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "2f76b190ab9966dadce7e72c675fa1697637e356a0d66e26f005351934d741fc"
